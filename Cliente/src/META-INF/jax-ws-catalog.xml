@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/Webservice/" uri="xml-resources/web-service-references/WsClient/wsdl/localhost_8080/Webservice/index"/>
+    <system systemId="http://localhost:8080/Webservice/webService?wsdl" uri="xml-resources/web-service-references/webService/wsdl/localhost_8080/Webservice/webService.wsdl"/>
+    <system systemId="http://localhost:8080/Webservice/webService?xsd=1" uri="xml-resources/web-service-references/webService/wsdl/localhost_8080/Webservice/webService.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/webService_nuevo/NuevoWebService?WSDL" uri="wsdl/localhost_8080/webService_nuevo/NuevoWebService.wsdl"/>
+    <system systemId="http://localhost:8080/webService_nuevo/NuevoWebService?wsdl" uri="wsdl/localhost_8080/webService_nuevo/NuevoWebService.wsdl"/>
+    <system systemId="http://localhost:8080/webService_nuevo/NuevoWebService?xsd=1" uri="wsdl/localhost_8080/webService_nuevo/NuevoWebService.xsd_1.xsd"/>
+</catalog>
